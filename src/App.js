@@ -86,6 +86,9 @@ function App() {
         ))}
       </div>
       <p>Turns: {turns}</p>
+      <div class="wrapper">
+        <p> Made with ❤ by <a href="http://www.github.com/TobiD-S">Tobi Dele-Safa</a>⚡</p>
+      </div>
     </div>
   );
 }
